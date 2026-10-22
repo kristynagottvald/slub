@@ -73,7 +73,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .reel-intro .grey { color: var(--grey); }
 
 /* ---------- Work ---------- */
-.work { position: relative; display: grid; grid-template-columns: 1fr; padding: 0 var(--pad) 120px; }
+.work { position: relative; display: grid; grid-template-columns: 1fr; padding: 96px var(--pad) 120px; }
 .work-side { padding-bottom: 24px; }
 .work-side-in { display: flex; flex-direction: column; gap: 12px; }
 .work-side-foot, #work-active { display: none; }
