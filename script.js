@@ -24,7 +24,7 @@
 
   async function load() {
     try {
-      const res = await fetch('projects.json?v=20261022k');
+      const res = await fetch('projects.json?v=20261022l');
       if (!res.ok) throw new Error(res.status);
       projects = await res.json();
     } catch (err) {
@@ -147,6 +147,9 @@
     }
   }
 
+  // Letters become spans with a staggered delay so a hover lifts them one after another.
+  const wave = (t) => { let n = 0; return t.split(' ').map((w) => `<span class="w" aria-hidden="true">${[...w].map((c) => `<span class="ch" style="--i:${n++}">${esc(c)}</span>`).join('')}</span>`).join(' '); };
+
   const pageTitle = (p) => p.pageTitle || p.title;
 
   function caseHTML(p) {
@@ -168,7 +171,7 @@
         <footer class="case-end">
           <a class="next" href="#${esc(next.id)}">
             <div class="section-label">Next project</div>
-            <div class="next-title">${esc(next.title)}</div>
+            <div class="next-title" aria-label="${esc(next.title)}">${wave(next.title)}</div>
           </a>
           <a class="section-label" href="#work">← All work</a>
         </footer>
