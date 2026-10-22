@@ -24,7 +24,7 @@
 
   async function load() {
     try {
-      const res = await fetch('projects.json?v=20261022e');
+      const res = await fetch('projects.json?v=20261022f');
       if (!res.ok) throw new Error(res.status);
       projects = await res.json();
     } catch (err) {
@@ -98,24 +98,6 @@
     first && setWork(first);
     window.addEventListener('scroll', () => { if (!workTick) { workTick = true; requestAnimationFrame(updateWork); } }, { passive: true });
   }
-
-  /* ---------- Showreel: the band grows to full screen as you scroll ---------- */
-
-  const reel = $('#reel'), reelVideo = $('#reel-video'), reelTitle = $('#reel-title'), reelIntro = $('#reel-intro');
-  const clamp01 = (x) => Math.min(1, Math.max(0, x));
-  function updateReel() {
-    if (currentView !== 'home' || window.innerWidth < 900) return;
-    const total = reel.offsetHeight - window.innerHeight;
-    const p = clamp01(-reel.getBoundingClientRect().top / total);
-    const e = clamp01(p / 0.8);
-    const k = e * e * (3 - 2 * e);
-    reelVideo.style.clipPath = `inset(${8 * (1 - k)}px ${8 * (1 - k)}px ${72.9 * (1 - k)}% ${8 * (1 - k)}px round ${4 * (1 - k)}px)`;
-    reelIntro.style.transform = `translateY(${-k * 60}px)`;
-    reelIntro.style.opacity = String(1 - clamp01((p - 0.1) / 0.35));
-    reelTitle.style.opacity = String(clamp01((p - 0.8) / 0.2));
-  }
-  window.addEventListener('scroll', () => requestAnimationFrame(updateReel), { passive: true });
-  window.addEventListener('resize', updateReel);
 
   /* ---------- Case study ---------- */
 
@@ -239,7 +221,7 @@
     currentView = name;
     $('#hb-label').textContent = { home: 'Home', case: 'Work', about: 'About' }[name];
     $('#hb').classList.remove('open');
-    requestAnimationFrame(() => { updateReel(); updateWork(); });
+    requestAnimationFrame(updateWork);
   }
 
   function scrollToId(id) {
@@ -282,14 +264,6 @@
   }, true);
 
   /* ---------- Clock + copy email ---------- */
-
-  const clock = $('#clock');
-  const tick = () => {
-    const d = new Date();
-    clock.textContent = `${String(d.getUTCHours()).padStart(2, '0')}:${String(d.getUTCMinutes()).padStart(2, '0')} UTC`;
-  };
-  tick();
-  setInterval(tick, 15000);
 
   $('#hb-toggle').addEventListener('click', () => {
     const hb = $('#hb');

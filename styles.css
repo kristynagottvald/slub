@@ -37,7 +37,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 /* ---------- Header ---------- */
 .hb { position: fixed; z-index: 40; top: 16px; left: 16px; right: 16px; display: flex; justify-content: space-between; align-items: flex-start; pointer-events: none; }
 .hb > * { pointer-events: auto; }
-.hb-pill { position: relative; width: 104px; background: transparent; border-radius: var(--r-sm); transition: width .4s cubic-bezier(.65,0,.35,1); overflow: hidden; }
+.hb-pill { position: relative; width: 200px; background: transparent; border-radius: var(--r-sm); transition: width .4s cubic-bezier(.65,0,.35,1); overflow: hidden; }
 .hb-pill::before { content: ""; position: absolute; inset: 0; background: var(--off-black); border-radius: var(--r-sm); opacity: 0; transition: opacity .3s; }
 .hb-bar { position: relative; display: flex; align-items: center; height: 44px; padding: 0 12px 0 14px; gap: 20px; white-space: nowrap; }
 .logo { flex: none; display: inline-flex; align-items: baseline; gap: 2px; font: 700 24px/1 var(--sans); letter-spacing: -1.4px; color: var(--accent); }
@@ -60,20 +60,15 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .hb-pill:hover, .hb-pill:focus-within, .hb.open .hb-pill { width: 270px; }
 .hb-pill:hover::before, .hb-pill:focus-within::before, .hb.open .hb-pill::before { opacity: 1; }
 .hb-pill:hover .hb-menu, .hb-pill:focus-within .hb-menu, .hb.open .hb-menu { opacity: 1; max-height: 420px; }
-.hb-meta { display: flex; align-items: center; height: 44px; padding: 0 8px; font: 400 11px/1 var(--mono); text-transform: uppercase; color: rgba(255,255,255,.7); mix-blend-mode: exclusion; }
 
-/* ---------- Showreel ---------- */
-.reel { height: 200svh; position: relative; }
-.reel-stick { position: sticky; top: 0; height: 100svh; overflow: hidden; }
-.reel-video { position: absolute; inset: 0; background: #1e1e1e; overflow: hidden; clip-path: inset(8px 8px 72.9% 8px round 4px); will-change: clip-path; }
+/* ---------- Showreel: static hero, 70% interactive / 30% text ---------- */
+.reel { height: 100svh; min-height: 560px; display: grid; grid-template-rows: 70fr 30fr; padding: 8px 8px 0; }
+.reel-stick { display: contents; }
+.reel-video { position: relative; background: #1e1e1e; overflow: hidden; border-radius: 4px; }
 .reel-video iframe { width: 100%; height: 100%; border: 0; }
 .reel-hint { position: absolute; right: 16px; bottom: 16px; display: inline-flex; align-items: center; gap: 14px; padding: 16px 22px; border-radius: 10px; background: rgba(40,40,40,.7); backdrop-filter: blur(8px); font: 400 14px/1 var(--sans); letter-spacing: .22em; text-transform: uppercase; color: #e8e8e8; pointer-events: none; }
-.reel-title { position: absolute; left: 0; right: 0; bottom: 24px; padding: 0 var(--pad) 0 28px; mix-blend-mode: exclusion; pointer-events: none; opacity: 0; }
-.reel-title h1, .reel-title p { font: 300 36px/1 var(--cond); }
-.reel-title p { color: var(--grey); }
-@media (min-width: 640px) { .reel-title h1, .reel-title p { font-size: 48px; letter-spacing: -1px; } }
-.reel-intro { position: absolute; left: 0; top: 0; width: 100%; padding: calc(100svh * .27 + 40px) var(--pad) 0 28px; pointer-events: none; }
-.reel-intro p { max-width: 20em; font: 300 26px/1.2 var(--cond); }
+.reel-intro { display: flex; align-items: center; padding: 0 var(--pad) 0 12px; }
+.reel-intro p { max-width: 22em; font: 300 26px/1.2 var(--cond); }
 @media (min-width: 640px) { .reel-intro p { font-size: 38px; line-height: 1.1; letter-spacing: -1px; } }
 .reel-intro .grey { color: var(--grey); }
 
@@ -185,13 +180,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 
 /* ---------- Responsive ---------- */
 @media (max-width: 899px) {
-  .reel { height: auto; }
-  .reel-stick { position: relative; height: auto; overflow: visible; }
-  .reel-video { position: relative; height: 70svh; clip-path: none !important; border-radius: var(--r-sm); margin: 8px 8px 0; }
-  .reel-title { display: none; }
-  .reel-intro { position: relative; padding: 40px var(--pad) 72px; }
   .hb.open .hb-pill, .hb-pill:hover { width: min(270px, calc(100vw - 32px)); }
-  .hb-meta { display: none; }
 }
 @media (max-width: 700px) {
   .text-row, .role-row, .about-cols { grid-template-columns: 1fr; gap: 14px; }
