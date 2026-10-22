@@ -138,7 +138,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .role-label { color: var(--grey); }
 .role-list li { font-size: 19px; line-height: 25px; }
 .role-list.body li { font-size: 15px; line-height: 21px; color: var(--grey); padding-bottom: 8px; }
-.kr-wrap { width: calc(50% - 20px); margin-left: calc(50% + 20px); }
+.kr-wrap { width: 50%; margin-left: 50%; }
 .kr-wrap .role-row { grid-template-columns: 1fr; gap: 14px; background: var(--off-black); border-radius: var(--r-md); padding: 20px; margin-top: 28px; border-top: 0; }
 .case-end { padding: 120px var(--pad) 80px; display: grid; gap: 20px; }
 .case-end .mono { color: var(--grey); }
@@ -187,7 +187,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   .text-row, .role-row, .about-cols { grid-template-columns: 1fr; gap: 14px; }
   .about-cols p { grid-column: 1; }
   .block-media.half-right, .block-media.half-left { width: 100%; margin-left: 0; }
-  .kr-wrap { width: 100%; margin-left: 0; }
+  .kr-wrap { width: calc(100% + 40px); margin-left: -20px; }
   .service-list li { grid-template-columns: 40px 1fr; }
   .contact-row { grid-template-columns: 1fr 1fr; }
 }
