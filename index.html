@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Slub • We create dynamic coded experiences</title>
+  <meta name="description" content="Slub is a creative studio that creates dynamic coded experiences for ambitious brands.">
+  <meta name="theme-color" content="#000000">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400&display=swap">
+  <link rel="stylesheet" href="styles.css?v=20261022e">
+  <script src="script.js?v=20261022e" defer></script>
+</head>
+<body>
+  <!-- Fixed header: logo pill that opens the menu, plus clock -->
+  <header class="hb" id="hb">
+    <div class="hb-pill">
+      <div class="hb-bar">
+        <a class="logo" href="#" aria-label="Slub, home">slub<span class="logo-dot"></span></a>
+        <span class="hb-label" id="hb-label">Home</span>
+        <button class="hb-toggle" id="hb-toggle" type="button" aria-expanded="false" aria-controls="hb-menu"><span class="sr">Toggle menu</span><i></i></button>
+      </div>
+      <nav class="hb-menu" id="hb-menu" aria-label="Main">
+        <a href="#work" data-nav="work"><b>Work</b><span>Explore case studies</span></a>
+        <a href="#about" data-nav="about"><b>About</b><span>Who we are</span></a>
+        <a href="#services" data-nav="services"><b>Services</b><span>What we do</span></a>
+        <a href="#contact" data-nav="contact"><b>Contact</b><span>Reach out</span></a>
+        <div class="hb-channels">
+          <h2>Channels</h2>
+          <a href="https://www.linkedin.com/in/kgottvald/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://dribbble.com/gottbot/" target="_blank" rel="noopener noreferrer">Dribbble</a>
+          <a href="https://vimeo.com/gottvald" target="_blank" rel="noopener noreferrer">Vimeo</a>
+          <a href="https://openprocessing.org/user/500421/#sketches" target="_blank" rel="noopener noreferrer">Creative Coding</a>
+        </div>
+      </nav>
+    </div>
+    <div class="hb-meta"><span id="clock">--:-- UTC</span></div>
+  </header>
+
+  <main id="main">
+    <!-- Home -->
+    <div id="view-home">
+      <!-- Showreel: the band grows to full screen while scrolling -->
+      <section class="reel" id="reel" aria-label="Showreel">
+        <div class="reel-stick">
+          <div class="reel-video" id="reel-video">
+            <iframe src="hob-sketch.html" title="Interactive sketch" allow="autoplay"></iframe>
+            <span class="reel-hint">Interactive <svg width="22" height="22" viewBox="0 0 20 20" aria-hidden="true"><path d="M7.2 6.4l8.4 3.3-3.6 1.4-1.4 3.6z" fill="currentColor"/><path d="M5 2.5v2M2.2 5.2h2M3 3l1.3 1.3M7.9 3.2l-.9 1.5M10.3 5.4l1.6-.7" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg></span>
+          </div>
+          <div class="reel-title" id="reel-title">
+            <h1>We’re Slub</h1>
+            <p>Dynamic coded experiences</p>
+          </div>
+          <div class="reel-intro" id="reel-intro">
+            <p>We make dynamic coded experiences for ambitious brands. Identity, motion and interaction, designed and built as one system. <span class="grey">Brand narratives for industry leaders like Shopify, Clearco and Mavenoid, turned into seamless visual systems.</span></p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Our work: sticky copy column left, projects right -->
+      <section class="work" id="work" aria-label="Our work">
+        <div class="work-side">
+          <div class="work-side-in">
+            <h2 class="t-condensed">Our work</h2>
+            <h3 class="t-condensed grey" id="work-active">&nbsp;</h3>
+            <div class="work-side-foot">
+              <p class="work-desc grey" id="work-desc"></p>
+              <div class="work-meta">
+                <img id="work-thumb" alt="" width="40" height="40">
+                <div><p id="work-sub"></p><p class="mono grey" id="work-tag"></p></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="work-list" id="cards"></div>
+      </section>
+
+      <section class="services" id="services" aria-label="Services">
+        <div class="row-head"><h2 class="mono">Services</h2><p class="mono grey">What we do</p></div>
+        <ul class="service-list" id="service-list"></ul>
+      </section>
+    </div>
+
+    <!-- Case study -->
+    <section id="view-case" aria-label="Case study" hidden>
+      <div id="case-stack"></div>
+    </section>
+
+    <!-- About -->
+    <section id="view-about" class="about" aria-labelledby="about-title" hidden>
+      <div class="about-inner">
+        <h1 id="about-title" class="t-condensed">We create dynamic coded experiences.</h1>
+        <div class="about-cols">
+          <p>Over the last ten years, we’ve shaped brand narratives for industry leaders like Shopify, Clearco, and Mavenoid by turning complex strategy into seamless visual systems. We thrive on helping teams move fast and scale without breaking their design integrity.</p>
+          <p>When we’re off the clock, we’re exploring generative art as creative coders, playing with vintage camera lenses, or hitting the tennis court.</p>
+        </div>
+        <h2 class="about-sub t-condensed">Let’s hit your next milestone together.</h2>
+        <div class="about-cols">
+          <p>You need to execute campaigns with speed, but without diluting your brand or fracturing your design system. By embedding directly with your marketing and product squads, we ensure your most ambitious creative projects go from concept to reality. If you’re looking for a design partner, we’d love to chat.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Contact -->
+  <section class="contact" id="contact" aria-label="Contact">
+    <div class="contact-grid">
+      <div class="contact-head">
+        <h2 class="t-condensed">Contact</h2>
+        <p class="t-condensed grey">Say hello</p>
+      </div>
+      <div class="contact-rows">
+        <div class="contact-row"><h3>New work</h3><div><p>For projects, collaborations and creative coding.</p><a class="ul" id="mail" href="mailto:hello@slub.studio">hello@slub.studio</a></div></div>
+        <div class="contact-row"><h3>Channels</h3>
+          <div class="grey">
+            <a class="ul" href="https://www.linkedin.com/in/kgottvald/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a class="ul" href="https://dribbble.com/gottbot/" target="_blank" rel="noopener noreferrer">Dribbble</a>
+            <a class="ul" href="https://vimeo.com/gottvald" target="_blank" rel="noopener noreferrer">Vimeo</a>
+            <a class="ul" href="https://openprocessing.org/user/500421/#sketches" target="_blank" rel="noopener noreferrer">Creative Coding</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="contact-base">
+      <div class="widget">
+        <div class="widget-body"><span class="mono grey">Say hello</span><span class="mono" id="mail2">hello@slub.studio</span></div>
+        <button class="copy" type="button" id="copy-mail">Copy</button>
+      </div>
+      <footer class="foot"><span>© Slub</span><a href="#">Back to top ↑</a></footer>
+    </div>
+  </section>
+</body>
+</html>

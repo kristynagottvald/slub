@@ -1,0 +1,1483 @@
+[
+  {
+    "caseStudyContent": [
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "House of Balloons (HOB) is a recording studio and creative brand built for producers, engineers, and artists who define their own sound through fearless improvisation. Its visual identity—Arrangement—is a fluid, DAW-inspired system that distills chaos into clarity and process into refined style. At its core is a modular grid designed not to constrain, but to be endlessly pushed to the limit. HOB isn’t for producers who stay on the grid. It’s for the ones who rearrange it."
+        ],
+        "heading": "A visual system for producers who break the mold.",
+        "type": "text"
+      },
+      {
+        "src": "hob-sketch.html",
+        "title": "House of Balloons interactive sketch",
+        "type": "sketch"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-02.gif",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-04.gif",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-05.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Directly inspired by the intuitive ways music creators work, Arrangement is the design system for House of Balloons.",
+          "Stretch captures the pure digital feel of grabbing a clip in a Digital Audio Workstation (DAW) and transforming it on the timeline. It’s that instant, fluid time-bending motion translated into living elasticity: every element in the system can expand, contract, and lock into perfect rhythm, giving the brand a precise yet effortlessly musical breath.",
+          "Stack mirrors the modern producer’s workflow of piling tracks vertically in the arrangement view. The brand’s signature grid turns flat musical “bars” into overlapping digital planes that rise and recess with subtle depth and dimension. These layered grids glide and interlock around the typography exactly like tracks in a session, giving letters their own space and velocity."
+        ],
+        "heading": "Built around two core conceptual pillars — Stretch and Stack.",
+        "type": "text"
+      },
+      {
+        "id": "1208322514",
+        "title": "Arrangement System",
+        "type": "vimeo"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-09.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Producers today are living in a golden age of tools and technology—music production has become a limitless playground for creative expression. Yet with infinite possibilities comes the need for the right frame to shape and focus the sound."
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "House of Balloons",
+        "src": "house-of-balloons-13.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "For HOB, I created a new visual identity called Arrangement. Deeply rooted in the modern DAW workflow, improvisation, and the raw creative process, it uses fluid warped typography and a sleek layered grid system as a supportive foundation—one that gives today’s producers and studio artists the perfect frame to shape limitless ideas into focused, powerful sound. The logo features a stylized “o” that serves as a minimalist representation of the balloon at the heart of the studio’s name. More than a simple letterform, it subtly evokes euphoria and heightened states while paying quiet homage to the House of Balloons origin story—The Weeknd’s seminal 2011 debut mixtape.",
+          "To scale HOB’s asset production, I built a custom generative motion tool utilizing p5.js. The tool automated the creation of complex motion graphics and looping patterns, delivering ready-to-use reels and video content for social media.",
+          "Role: Creative direction, creative concepts, brand guidelines, illustration system, creative coding, motion design"
+        ],
+        "heading": "Where improvisation becomes identity.",
+        "type": "text"
+      }
+    ],
+    "category": "Creative direction",
+    "client": "",
+    "hideTitle": true,
+    "id": "805512551996817408",
+    "mediaType": "image",
+    "noLine": true,
+    "summary": "",
+    "thumbnail": "house-of-balloons.webp",
+    "title": "House of Balloons",
+    "year": 2020
+  },
+  {
+    "caseStudyContent": [
+      {
+        "body": [
+          "Built for hardware products that need frequent troubleshooting, Mavenoid’s multimodal virtual assistant lets customers simply talk, type, or snap a photo of the problem, and the AI instantly recognizes the exact product and model, pulls the correct manual, and guides the customer through a clear, visual, step-by-step repair—all in one uninterrupted flow."
+        ],
+        "heading": "Mavenoid is the AI agent for product support",
+        "type": "text"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-02c.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Unlike many AI companies that lean into futuristic or overly polished clichés, I designed a brand identity that makes technology approachable, and—most importantly in the age of AI frustration—feel human."
+        ],
+        "heading": "Limit frustration with AI",
+        "type": "text"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-04.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The visual language draws inspiration from classic assembly instruction manuals and vintage comics producing a system that’s clean, straightforward, and instantly understandable, while infusing the design with playful, warm human elements. This distinctive style ensures that even complex technical guidance feels welcoming and intuitive rather than cold or—for lack of a better word—robotic."
+        ],
+        "heading": "We’re human. Not robots.",
+        "type": "text"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-09.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-13.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-14.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-15.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-16.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-17.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid is the AI agent for product support",
+        "src": "mavenoid-is-the-ai-agent-for-product-support-18.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "While most AI agents stall and escalate, Mavenoid diagnoses and resolves complex product issues using voice, photos, and live augmented reality video—delivering fully autonomous fixes for 80–95% of cases with unmatched precision.",
+          "Key results Drove 7x ARR growth by reshaping the competitive narrative. Scaled LinkedIn social following by 500% in one year. 75% lift in conversion rate on key product pages.",
+          "Role: Art direction, creative concepts, brand design system, illustration, campaign design, brand guidelines",
+          "Head of Design: Niklas Alvarsson ",
+          "Product Design: Mattias Andersson, Anna Syla, León Kibuka"
+        ],
+        "heading": "Hardware support doesn’t have to be hard.",
+        "type": "text"
+      }
+    ],
+    "category": "Visual identity",
+    "client": "",
+    "hideTitle": true,
+    "id": "805201901507461120",
+    "mediaType": "image",
+    "noLine": true,
+    "pageTitle": "",
+    "summary": "",
+    "thumbnail": "mavenoid-is-the-ai-agent-for-product-support.webp",
+    "title": "Mavenoid is the AI agent for product support",
+    "year": 2023
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Postal Fix",
+        "src": "postal-fix.webp",
+        "type": "image"
+      },
+      {
+        "id": "1215069648",
+        "title": "Postal Fix Hex",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Postal Fix",
+        "src": "postal-fix-02.webp",
+        "type": "image"
+      },
+      {
+        "id": "1215014313",
+        "title": "Send It",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Postal Fix",
+        "src": "postal-fix-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Postal Fix",
+        "src": "postal-fix-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Postal Fix",
+        "src": "postal-fix-05.webp",
+        "type": "image"
+      },
+      {
+        "id": "1215035720",
+        "title": "44% of the world’s mail",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Postal Fix",
+        "src": "postal-fix-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Postal Fix",
+        "src": "postal-fix-07.webp",
+        "type": "image"
+      },
+      {
+        "id": "1204682073",
+        "title": "Rising Postal Costs",
+        "type": "vimeo"
+      },
+      {
+        "body": [
+          "The campaign utilizes a heavy, slanted kinetic serif font to give an immediate sense of forward motion and authority. Clean linework anchors the system with technical precision, clarifying dense logistical data. In contrast, bold, punchy illustrations inject personality to humanize the rigid postal bureaucracy.",
+          "Role: Art direction, creative concepts, campaign design, social creative, motion design"
+        ],
+        "heading": "USPS bureaucracy shouldn’t dictate your mail strategy.",
+        "type": "text"
+      }
+    ],
+    "category": "Campaign",
+    "client": "",
+    "id": "820417107624886272",
+    "mediaType": "image",
+    "summary": "To turn dry postal logistics into a must-watch event, the visual identity for Lọb’s 10-day Postal Fix cuts through a sea of boring, cookie-cutter corporate aesthetics to give marketers the chance to transform from a postal novice into the mail expert on their team. Driven by a heavy, slanted kinetic serif font that accelerates things forward, the design pairs a high-voltage color palette with larger-than-life, punchy illustrations. This bold approach gives a massive presence to an often-ignored marketing channel, injecting real personality and humanizing the rigid postal bureaucracy.",
+    "thumbnail": "postal-fix-thumb.png",
+    "title": "Postal Fix",
+    "year": 2026
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Modern marketing guides for the digital entrepreneur",
+        "src": "modern-marketing-guides-for-the-digital-entrepreneur.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The Clearco marketing guides are the comprehensive manuals for digital entrepreneurs seeking to ascend the ranks of the e-commerce world. By positioning ourselves as disruptors in the space, I created a dark modern aesthetic that feels timeless yet fresh appealing to Clearco’s self-starter audience."
+        ],
+        "heading": "Modern marketing guides for the digital entrepreneur",
+        "type": "text"
+      },
+      {
+        "alt": "Modern marketing guides for the digital entrepreneur",
+        "src": "modern-marketing-guides-for-the-digital-entrepreneur-02.webp",
+        "type": "image"
+      },
+      {
+        "id": "1206683920",
+        "title": "Ripple Effect",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Modern marketing guides for the digital entrepreneur",
+        "src": "modern-marketing-guides-for-the-digital-entrepreneur-03.webp",
+        "type": "image"
+      },
+      {
+        "id": "1207192113",
+        "title": "Track Every Touchpoint",
+        "type": "vimeo"
+      },
+      {
+        "id": "1207047715",
+        "title": "Move The Needle",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Modern marketing guides for the digital entrepreneur",
+        "src": "modern-marketing-guides-for-the-digital-entrepreneur-04.webp",
+        "type": "image"
+      },
+      {
+        "id": "1207058184",
+        "title": "Replatform Motifs",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Modern marketing guides for the digital entrepreneur",
+        "src": "modern-marketing-guides-for-the-digital-entrepreneur-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Modern marketing guides for the digital entrepreneur",
+        "src": "modern-marketing-guides-for-the-digital-entrepreneur-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Modern marketing guides for the digital entrepreneur",
+        "src": "modern-marketing-guides-for-the-digital-entrepreneur-07.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Each guide is tailored to a specific need exploring topics in-depth, from marketing strategies to inventory management, equipping entrepreneurs with the know-how and the confidence to conquer their digital domains.",
+          "The visual identity of each guide uses familiar how-to and technical references, feeling instructional. Bold web colours and gradients evoke the feeling of energy and progression. The black canvas base alludes to the ever-expanding mystical space of the internet that digital entrepreneurs thrive in. This aesthetic not only resonates with entrepreneurs seeking guidance, but also stays consistent with the overarching Clearco brand.",
+          "Key results Converted 38% of manual downloads into qualified platform leads, outpacing standard B2B benchmarks. Sparked a 32% surge in inbound lead generation from growth-focused founders via The Attribution Guide.",
+          "Role: Art direction, Creative Concepts, Editorial Design, Social Media Creative, Motion Design",
+          "Creative Direction: Eric Vienna"
+        ],
+        "heading": "Guides to help entrepreneurs build unstoppable brands, delivering practical tools for marketing, operations, and industry domination.",
+        "type": "text"
+      }
+    ],
+    "category": "Art direction",
+    "client": "",
+    "hideTitle": true,
+    "id": "805233402662060032",
+    "mediaType": "image",
+    "noLine": true,
+    "pageTitle": "",
+    "summary": "",
+    "thumbnail": "modern-marketing-guides-for-the-digital-entrepreneur-thumb.png",
+    "title": "Modern marketing guides for the digital entrepreneur",
+    "year": 2021
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Clearco Australia Launch",
+        "src": "clearco-australia-launch.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "To mark Clearco’s entry into the Australian market, we developed an unapologetic campaign centered on a founder-first manifesto. By highlighting the limitations imposed by traditional lenders, we exposed the “old rules” that hold businesses back. The visual identity, featuring bold redactions and collage aesthetics, symbolized our commitment to breaking those norms and positioning Clearco as the definitive partner for growth-focused founders."
+        ],
+        "heading": "Anti-bank sentiment is real in Australia.",
+        "type": "text"
+      },
+      {
+        "id": "1146029476",
+        "title": "To Whom It May Concern",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Clearco Australia Launch",
+        "src": "clearco-australia-launch-02.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco Australia Launch",
+        "src": "clearco-australia-launch-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco Australia Launch",
+        "src": "clearco-australia-launch-04.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "By combining a cut-and-paste aesthetic with sharpie marker redactions, we established a bold and refined product identity that resonated with Aussies jaded by their local banking infrastructure.",
+          "Creative Direction: Eric Vienna",
+          "Also on the team: Saksham Sharma, Wai Yuan, Artem Patlazhan, Christia Fung, Dawn Buensuceso"
+        ],
+        "side": "left",
+        "type": "text"
+      },
+      {
+        "alt": "Clearco Australia Launch",
+        "half": true,
+        "src": "clearco-australia-launch-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco Australia Launch",
+        "half": true,
+        "src": "clearco-australia-launch-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco Australia Launch",
+        "half": true,
+        "src": "clearco-australia-launch-07.webp",
+        "type": "image"
+      },
+      {
+        "id": "1146030067",
+        "title": "Things They Care About",
+        "type": "vimeo"
+      },
+      {
+        "body": [
+          "Role: Art direction, creative concepts, social creative, brand illustration"
+        ],
+        "type": "text"
+      }
+    ],
+    "category": "Campaign",
+    "client": "",
+    "hideTitle": true,
+    "id": "819915515745189888",
+    "mediaType": "image",
+    "noLine": true,
+    "summary": "",
+    "thumbnail": "clearco-australia-launch.webp",
+    "title": "Clearco Australia Launch",
+    "year": 2021
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Support leaders at hardware and electronics companies face tough, unique challenges—and until now, there’s been no dedicated place for them to connect and share real solutions.",
+          "Mavenoid’s Product Support Community (PSC) changes that. It’s the first (and only) community built exclusively for technical support leaders, focused on practical takeaways for support teams and the latest advancements in automation and AI."
+        ],
+        "heading": "Mavenoid’s Product Support Community serves as a global hub for technical support leaders",
+        "type": "text"
+      },
+      {
+        "id": "1147892064",
+        "title": "Product Support Community",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-02.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-06.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The nut-and-bolt logo ties it all together: two simple, material forms that only achieve strength when community members come together. Each new member is another turn of the bolt—fitting perfectly, holding stronger, building something unbreakable. The result is a design language that feels simultaneously grounded in the physical world of hardware and lifted by the spiritual warmth of community."
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-09.webp",
+        "type": "image"
+      },
+      {
+        "id": "1145843089",
+        "title": "Great support doesn’t happen solo",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-10.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The design system for the Product Support Community (PSC) is deliberately built on two contrasting yet harmonious layers: a grounded “material world” foundation and a vibrant communal overlay that elevates the brand into something more human and connected."
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-13.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-14.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-15.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Mavenoid’s Product Support Community",
+        "src": "mavenoids-product-support-community-16.webp",
+        "type": "image"
+      },
+      {
+        "id": "1145843500",
+        "title": "Playful but Powerful",
+        "type": "vimeo"
+      },
+      {
+        "body": [
+          "Key results Boosted campaign MQLs by 150% through the strategic design of high-performing community content and social assets. Influenced 22% of marketing-attributed deals by delivering persuasive brand collateral.",
+          "At its core, the system begins with the material—bold outlines (inherited directly from the parent Mavenoid brand), and a restrained blue palette that keeps everything feeling corporate, trustworthy, and buttoned-up. This layer is the nuts and bolts: reliable, precise, and unmistakably technical.",
+          "The second component to this balance is the communal—or spiritual level, by leaning into bold vector fills to create impact, sometimes offset when the moment calls for it. Rounded corners create a playful-yet-powerful illustration style to soften the edges, making complex technical topics approachable and keeping the community feeling warm rather than coldly corporate. Yellow is introduced intentionally as the spark of connection and energy—used sparingly in accents, highlights, and “pop-out” moments. These bright yellow pop-outs do double duty: they draw the eye to what matters most (like a pop-up notification or chat bubble demanding attention) while symbolizing that community connection.",
+          "Role: Creative direction, campaign design, illustration, motion design, brand design system"
+        ],
+        "type": "text"
+      }
+    ],
+    "category": "Creative direction",
+    "client": "",
+    "hideTitle": true,
+    "id": "805203092784152576",
+    "mediaType": "image",
+    "noLine": true,
+    "pageTitle": "",
+    "summary": "",
+    "thumbnail": "mavenoids-product-support-community.webp",
+    "title": "Mavenoid’s Product Support Community",
+    "year": 2024
+  },
+  {
+    "caseStudyContent": [
+      {
+        "hash": "d77de15d3f",
+        "id": "1215020708",
+        "title": "ReRadial",
+        "type": "vimeo"
+      },
+      {
+        "body": [
+          "To position Reprise as a leader in AI-driven demos, the visual language balances technical precision with modern intelligence. The structured grid system represents a blueprint for creation, while the elegant repeating patterns act as the invisible hand of AI."
+        ],
+        "heading": "Build better demos with AI",
+        "type": "text"
+      },
+      {
+        "id": "1214919605",
+        "title": "ReExpand",
+        "type": "vimeo"
+      },
+      {
+        "id": "1214916593",
+        "title": "RePalette",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "half": true,
+        "src": "build-better-demos-with-ai-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "half": true,
+        "src": "build-better-demos-with-ai-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "half": "left",
+        "src": "build-better-demos-with-ai-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "half": "left",
+        "src": "build-better-demos-with-ai-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "src": "build-better-demos-with-ai-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "src": "build-better-demos-with-ai-09.webp",
+        "type": "image"
+      },
+      {
+        "id": "1214919145",
+        "title": "Build Better Demos",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "src": "build-better-demos-with-ai-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "src": "build-better-demos-with-ai-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "src": "build-better-demos-with-ai-13.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "src": "build-better-demos-with-ai-14.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Build better demos with AI",
+        "src": "build-better-demos-with-ai-15.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The visual identity fuses technical precision with modern intelligence, crafting a sophisticated narrative of seamless automation. The strict grid system establishes the foundational blueprint — embodying the modular, scalable architecture of enterprise software with clean lines that signal order, reliability, and engineering excellence.",
+          "In combination with this structured framework, delicate repeating patterns emerge as the invisible hand of AI — fluid and rhythmic. I paired both these design principles together to transform rigid compositions into a dynamic visual language.",
+          "Role: Art direction, creative concepts, campaign creative, illustration, social creative, presentation design"
+        ],
+        "heading": "Reprise uses AI to effortlessly configure, populate, and maintain demo environments.",
+        "type": "text"
+      }
+    ],
+    "category": "Visual identity",
+    "client": "",
+    "hideTitle": true,
+    "id": "805157303765614592",
+    "mediaType": "image",
+    "noLine": true,
+    "pageTitle": "",
+    "summary": "",
+    "thumbnail": "build-better-demos-with-ai-cover.webp",
+    "title": "Build better demos with AI",
+    "year": 2025
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Lob",
+        "src": "lob.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Lob is the only direct mail platform with proprietary advanced routing, printing, and delivery infrastructure that delivers predictable postage costs and dramatically faster mail delivery times across the United States.",
+          "Built for high-volume teams that send millions of sophisticated, hyper-personalized mailpieces, Lob’s brand is deliberately bold, modern, and distinctive—just like the forward-thinking companies that power their businesses with us."
+        ],
+        "heading": "Your direct mail partner from campaign to mailbox",
+        "type": "text"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-02.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-05.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "We built the Lob brand in the same spirit as the platform: to dominate at enterprise scale and never blend in. Fresh, contemporary, and loud—designed to stand beside the most ambitious, design-obsessed companies in the world. Teams sending millions of pieces refuse to let their mail look like junk. So why would they accept a junk-looking mail platform?"
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-09.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-11.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Lob’s Template Gallery now has 40+ beautiful, ready-to-use mail pieces (postcards, gift card carriers, snap packs, letters, self-mailers). I scrapped the old, outdated Lob InDesign library for fresh, new templates—clean, modern, and built 100% for the new Figma-to-Lob plugin so customers can customize and send in minutes instead of weeks."
+        ],
+        "heading": "Beautiful templates that turn “snail mail” into “sale mail”",
+        "type": "text"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-13.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-14.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Lob",
+        "src": "lob-15.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Working alongside the Brand Design Manager, I helped evolve the full Lob brand ecosystem: expanding the illustration system, refreshing mail templates, crafting standout event branding, designing physical print collateral, and unifying the promotional visual identity across ads, social media, and the blog. At the heart of the brand is a bright, CMYK-inspired palette that celebrates the essence of print. Indigo always leads—Lob’s bold primary color that refuses to blend in. Together, these colors pop vividly on paper and cut effortlessly through cluttered mailboxes and digital feeds.",
+          "Role: Art direction, creative concepts, print design, campaign creative, illustration",
+          "Creative direction: Mel Lavigne"
+        ],
+        "heading": "Junk mail gets tossed. Lob gets opened.",
+        "type": "text"
+      }
+    ],
+    "category": "Visual identity",
+    "client": "",
+    "hideTitle": true,
+    "id": "819502830422523904",
+    "mediaType": "image",
+    "noLine": true,
+    "summary": "",
+    "thumbnail": "lob.webp",
+    "title": "Lob",
+    "year": 2025
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Tim Hortons double-doubled down on the fast-growing rewards space, formally introducing Tim’s Financial with a Mastercard credit card and a secured card. Tim’s Financial was designed to allow Tim Hortons customers to earn Tim Rewards points on all their purchases, which can then be redeemed for more free coffee, drinks and food at Tim Hortons."
+        ],
+        "heading": "Tim’s Financial",
+        "type": "text"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-02.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-09.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-13.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-14.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Tim’s Financial",
+        "src": "tims-financial-15.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Collaborated with internal marketing teams to bring the Tim’s Financial illustration system to life. Adapted the classic Tim’s brand for fintech, deploying new visual assets across a core Rewards app used by 4M+ active users.",
+          "Also on the team: Jacob Channen",
+          "Role: Creative concepts, Illustration, Campaign design"
+        ],
+        "heading": "From the cup to the card.",
+        "type": "text"
+      }
+    ],
+    "category": "Visual identity",
+    "client": "",
+    "hideTitle": true,
+    "id": "805234866184765440",
+    "mediaType": "image",
+    "noLine": true,
+    "summary": "",
+    "thumbnail": "tims-financial.webp",
+    "title": "Tim’s Financial",
+    "year": 2023
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Clearco",
+        "src": "clearco-cover.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Clearco enables e-commerce founders to focus on the big picture—by aligning data with destiny, unlocking insights that make sense of the chaos, and empowering them to navigate their loftiest goals and greatest ambitions without giving up equity. We formalize founders’ dreams into reality."
+        ],
+        "heading": "Funding the next generation of entrepreneurs with a modern approach to venture capital",
+        "type": "text"
+      },
+      {
+        "id": "1206675563",
+        "title": "No Dilution Ever",
+        "type": "vimeo"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-02.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-05.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "With the in-house creative team, I helped develop and launch the rebrand with a new visual identity: Starpower. Drawing inspiration from outliers, the elegance of data, that explosive “Eureka!” moment, the boundless power of ambition, and a nod to Michele Romanow, CEO of Clearco, for her trailblazing achievements in entrepreneurship, business, and TV—with particular distinction as an investor on CBC’s Dragons’ Den."
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-08.webp",
+        "type": "image"
+      },
+      {
+        "id": "1146250829",
+        "title": "Welcome to a new era",
+        "type": "vimeo"
+      },
+      {
+        "body": [
+          "Starpower radiates through every element. Dot-matrix patterns converge with edgy visuals to define our loud sub-brands: all engineered to deliver non-dilutive growth capital that empowers founders through the themes of ownership, fearlessness, and the future."
+        ],
+        "heading": "The Clearco Extended Universe",
+        "type": "text"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-09.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-13.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-14.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Clearco",
+        "src": "clearco-15.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Clearco stands as the forward-thinking pioneer of the capital industry, redefining the future of funding with unmatched vision and precision. Just as founders focus on the big picture and harness data to chart the course ahead, stars have guided humanity through uncharted territories, enabled precise prediction of the future, and turned bold visions into reality. Vibrant web colours and dynamic gradients ignite a sense of unstoppable energy and relentless progression. The black canvas base represents the infinite, ever-expanding frontier of the digital universe: a vast space where innovative entrepreneurs push boundaries and thrive.",
+          "Creative Direction: Eric Vienna",
+          "Also on the team: Saksham Sharma, Brendan Gore, Michael Chiu, Wai Yuan, Artem Patlazhan, Christia Fung, Dawn Buensuceso",
+          "Key results Designed the pitch deck that secured $100M from SoftBank, propelling Clearco to a $1B+ unicorn valuation. 25% organic traffic surge and millions of social impressions from viral marketing campaign.",
+          "Role: Art direction, creative concepts, brand guidelines, social creative, brand illustration "
+        ],
+        "type": "text"
+      }
+    ],
+    "category": "Visual identity",
+    "client": "",
+    "hideTitle": true,
+    "id": "805229001816850432",
+    "mediaType": "image",
+    "noLine": true,
+    "summary": "",
+    "thumbnail": "clearco-cover.webp",
+    "title": "Clearco",
+    "year": 2021
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "GrubClub",
+        "src": "grubclub.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "GrubClub stems from a passion for entomology and a mission to reframe Western attitudes toward alternative proteins. The project demonstrates that even a deeply stigmatized food source, like eating insects, can spark curiosity and cultural risk-taking when framed the right way through thoughtful design."
+        ],
+        "heading": "Delicious meal kits that quietly revolutionize protein",
+        "type": "text"
+      },
+      {
+        "id": "1146267433",
+        "title": "GrubClub",
+        "type": "vimeo"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-02.gif",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-06.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "GrubClub was born from a love of great food and planet-friendly thinking, we’re on a mission to prove insect protein isn’t weird—it’s wonderful. Every box hides a secret: big, irresistible flavour and powerhouse nutrition, with the bug protein playing the sneakiest hide-and-seek, until you’re fully prepared to uncover the true genius behind the taste."
+        ],
+        "type": "text"
+      },
+      {
+        "id": "1152742767",
+        "title": "Now You See Me",
+        "type": "vimeo"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-08.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The circle is GrubClub’s core motif: simple, calm, complete. Scaling seamlessly from the smallest design element to the broadest brand philosophy, it’s in our logo, illustrations, packaging, and every dish. There’s no creepy bug photos—just simple geometry. Everything loops back to one clear message: nature belongs on your plate."
+        ],
+        "heading": "Nature, perfectly plated",
+        "type": "text"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-09.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "GrubClub",
+        "src": "grubclub-13.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Conceptualized as my senior design thesis, GrubClub puts flavour first and lets the source play hide-and-seek. The brand motif features two-level camouflage: just as the insect protein slips unnoticed into delicious meals, the visual identity does the same. Bold, juicy vector illustrations of vegetables and leaves burst with appetizing colour, creating an instantly mouth-watering, plant-based impression. Blended seamlessly within the foliage are tiny insects, rendered in the same friendly geometric style. They remain perfectly camouflaged until the moment of the joyful double-take.",
+          "Underpinning everything is the circle; full circle. It represents nature’s closed loop, a dinner plate, and the simplified anatomy of an insect. These two versatile motifs drive a unique geometric illustration system: minimal and clean on small labels, expanding into bug-hidden scenes across packaging and digital campaigns.",
+          "Role: Creative direction, brand design system, motion design, packaging, illustration, campaign creative"
+        ],
+        "heading": "GrubClub",
+        "type": "text"
+      }
+    ],
+    "category": "Visual identity",
+    "client": "",
+    "hideTitle": true,
+    "id": "805230598238175232",
+    "mediaType": "image",
+    "noLine": true,
+    "summary": "",
+    "thumbnail": "grubclub.webp",
+    "title": "GrubClub",
+    "year": 2021
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-02.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-03.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-06.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-09.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-11.webp",
+        "type": "image"
+      },
+      {
+        "alt": "The State of Remote Engineering",
+        "src": "the-state-of-remote-engineering-12.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The illustration system employed recognizable day-to-day workspaces that engineers often encounter in remote environments while working from home, such as zoom call screens, physical sheets of paper, and the overlapping windows on a desktop. These technical-inspired line illustrations were balanced with abstract pixels that evoke the digital space of the internet - a hub for collaboration and the ideal environment for engineers to do their best work.",
+          "Role: Art direction, campaign creative, editorial design, illustration",
+          "Creative direction: Mel Lavigne"
+        ],
+        "heading": "Engineers have a lot to say on remote work and the future of work post-pandemic.",
+        "type": "text"
+      }
+    ],
+    "category": "Art direction",
+    "client": "",
+    "id": "805235211189321728",
+    "mediaType": "image",
+    "summary": "The State of Remote Engineering Report explores the sentiments of software engineers regarding working from home during the 2020 COVID-19 pandemic. The report is based on survey data and includes insights from over 1000 engineers from across the world on how economic uncertainties have affected their teams, as well as their opinions on remote work, benefits, the future of work post-pandemic and what companies can offer prospective employees.",
+    "thumbnail": "the-state-of-remote-engineering.webp",
+    "title": "The State of Remote Engineering",
+    "year": 2021
+  },
+  {
+    "caseStudyContent": [
+      {
+        "body": [
+          "Designed to accelerate children’s reading development, Pagemaster connects parents to the perfect local learning program for their kids—no guesswork, no mismatched classes. We understand the real struggle of learning to read, which is why we speak the language of parents and educators alike. One quick skill check on the portal and instantly Pagemaster’s AI engine matches your child to the perfect class, level, and teacher."
+        ],
+        "heading": "Pagemaster takes learning beyond the classroom",
+        "type": "text"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-02.gif",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-03.gif",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-06.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The strict yet flexible grid system acts as a window to another world—whether that world is reached through the pages of a book, a screen, or the Pagemaster platform itself. Simple rectangles and squares are the most rudimentary shapes, just like learning to read is the first, foundational step toward full literacy. Within the grid lives the secondary logomark: a playful bookworm happily immersed in an open book, welcoming children into deeper stories and adventures."
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-07.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-08.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-09.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-10.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-11.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Hand-drawn accents—scribbled underlines, check marks, and chalky highlights—run throughout the brand. They’re a loving nod to teachers’ pen grades and the satisfying squeak of chalk on a blackboard, but also to the carefree joy of drawing as a child. Every mark says the same thing: learning is serious work and serious play, and it never has to be confined to four walls."
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-12.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-13.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-14.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-15.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Pagemaster",
+        "src": "pagemaster-16.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "Pagemaster speaks directly to the real struggles kids face when learning to read: intentional spelling mistakes appear in parent-facing materials, a quiet reminder that mistakes are part of the journey. To balance this, ultra-legible Neue Machina with generous ink traps keeps every word clear and effortless for emerging readers. At the heart of the visual system is a bold, expansive black chalkboard paired with clean white typography—the classic classroom canvas. Bright pops of yellow, blue, and coral bring in the joyful energy of real chalk: the same tool teachers use to write lessons and the same toy kids grab to draw hopscotch grids on the sidewalk. It’s a deliberate symbol that learning doesn’t stop at the bell; it spills out into the world.",
+          "Role: Creative direction, brand design system, illustration, motion design"
+        ],
+        "type": "text"
+      }
+    ],
+    "category": "Visual identity",
+    "client": "",
+    "hideTitle": true,
+    "id": "805220681360015360",
+    "mediaType": "image",
+    "noLine": true,
+    "summary": "",
+    "thumbnail": "pagemaster.webp",
+    "title": "Pagemaster",
+    "year": 2020
+  },
+  {
+    "caseStudyContent": [
+      {
+        "alt": "Shopify’s BFCM Report",
+        "src": "shopifys-bfcm-report.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Shopify’s BFCM Report",
+        "src": "shopifys-bfcm-report-02.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Shopify’s BFCM Report",
+        "src": "shopifys-bfcm-report-03.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The line illustration system I created was balanced with geometric translucent charts and arrows. These elements evoke the duality of the global commerce ecosystem, serving as visual metaphors for both the tangible nature of shipped goods and the invisible hand of the market from economic theory."
+        ],
+        "type": "text"
+      },
+      {
+        "alt": "Shopify’s BFCM Report",
+        "src": "shopifys-bfcm-report-04.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Shopify’s BFCM Report",
+        "src": "shopifys-bfcm-report-05.webp",
+        "type": "image"
+      },
+      {
+        "alt": "Shopify’s BFCM Report",
+        "src": "shopifys-bfcm-report-06.webp",
+        "type": "image"
+      },
+      {
+        "body": [
+          "The Black Friday Cyber Monday (BFCM) By The Numbers Report examines how independent businesses have adapted through the pandemic, responded to consumer demand and explored what trends are here to stay.",
+          "Role: Illustration, creative concepts, data visualization"
+        ],
+        "type": "text"
+      }
+    ],
+    "category": "Brand illustration",
+    "client": "",
+    "id": "805243629691142144",
+    "mediaType": "image",
+    "summary": "The Black Friday Cyber Monday (BFCM) By The Numbers Report is an annual data analysis of Shopify merchants’ online sales during the Black Friday shopping season.",
+    "thumbnail": "shopifys-bfcm-report.webp",
+    "title": "Shopify’s BFCM Report",
+    "year": 2020
+  }
+]
